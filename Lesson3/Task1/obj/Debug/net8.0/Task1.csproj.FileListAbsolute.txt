@@ -1,0 +1,15 @@
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/bin/Debug/net8.0/Task1
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/bin/Debug/net8.0/Task1.dll
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.dll
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/andreychebotar/Desktop/01_CSHARP/Lesson3/Task1/obj/Debug/net8.0/ref/Task1.dll
